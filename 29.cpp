@@ -64,7 +64,7 @@ void task_5() {
     std::cout << "Enter number: ";
     std::cin >> number;
     
-    if (number <= 18 == 0) {
+    if (number <= 18) {
         std::cout << "Adlut" << std::endl;
     } else {
         std::cout << "Minor" << std::endl;
